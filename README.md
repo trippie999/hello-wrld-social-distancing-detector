@@ -5,4 +5,5 @@ for this to python program to work, you will need to install the following packa
 2.OpenCV<br>
 3.time<br>
 4.imutils<br>
-This program supports NVIDIA CUDA for faster processing. The program is 3x faster with CUDA installed.<br> (see https://en.wikipedia.org/wiki/CUDA)<br>
+download the weights file [here](https://pjreddie.com/darknet/yolo/) and put it in the yolo-coco folder <br>
+This program supports NVIDIA CUDA for faster processing. The program is 3x faster with CUDA installed.<br> [see CUDA here](https://en.wikipedia.org/wiki/CUDA)<br>
