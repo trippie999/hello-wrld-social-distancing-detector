@@ -3,7 +3,7 @@ A software that allows the user to detect social distancing violations in a moni
 for this to python program to work, you will need to install the following packages:<br>
 1.PyQt5  (QTWidgets, QDesktopWidget, QtGui,QtCore,QtMultimedia)<br>
 2.PyQt5 Tools (PyQt5-tools)<br>
-3.OpenCV (opencv-python); [see OpenCV here](https://opencv.org/)<br>
+3.OpenCV (opencv-python); see OpenCV  [here](https://opencv.org/) and make sure to download OpenCV with contrib using [this guide](https://www.youtube.com/watch?v=YsmhKar8oOc)<br>
 4.time<br>
 5.imutils<br>
 download the weights file [here](https://pjreddie.com/darknet/yolo/) and put it in the yolo-coco folder <br>
